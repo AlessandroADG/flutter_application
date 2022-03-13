@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:theme_change/counter_app/counter_app.dart';
+import 'package:theme_change/list_app/screen/list_screen.dart';
 
 void main() {
-  runApp(const Counter());
+  runApp(const ListScreen());
 }
 
