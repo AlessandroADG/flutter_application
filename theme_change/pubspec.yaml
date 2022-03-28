@@ -21,6 +21,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   http:
   json_annotation:
+  dio:
+  flutter_bloc:
 
 dev_dependencies:
   flutter_test:
