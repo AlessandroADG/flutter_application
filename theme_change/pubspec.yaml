@@ -23,6 +23,7 @@ dependencies:
   json_annotation:
   dio:
   flutter_bloc:
+  auto_route:
 
 dev_dependencies:
   flutter_test:
